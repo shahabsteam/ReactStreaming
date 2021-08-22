@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "agha",
+      "description": "agha salam",
+      "id": 1
+    },
+    {
+      "title": "salam",
+      "description": "stream test",
+      "id": 2
+    },
+    {
+      "title": "shahab's stream is not here",
+      "description": "stream1",
+      "id": 3
+    },
+    {
+      "title": "salam",
+      "description": "in ham yek stream ast digar",
+      "userEmail": "shahabsteam@gmail.com",
+      "id": 4
+    }
+  ]
+}
